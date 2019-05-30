@@ -8,6 +8,7 @@ Powered By
   - Manage Stall Menu
   - Manage Stall Task
   - Manage Stall Avaibility
+  - Auto Print Function
  
 ### Tech
 
